@@ -15,7 +15,7 @@ A clean landing page project ready to be uploaded to GitHub.
 python3 -m http.server 8000
 ```
 
-Then open http://localhost:8000 in your browser.
+Then open [http://localhost:8000](http://localhost:8790/sessions/01m3epfrkqjja9ja71jkxx8hmc?try_agent_name=zolvaa) in your browser.
 
 ## Upload to GitHub
 
